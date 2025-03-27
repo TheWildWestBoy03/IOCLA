@@ -1,0 +1,4 @@
+transpiler
+*.o
+*.out
+*.valgrind
